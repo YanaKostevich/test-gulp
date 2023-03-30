@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "zeyadaregular";
+  src: url("../fonts/zeyada-regular-webfont.woff2") format("woff2"), url("../fonts/zeyada-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-size: 100px;
+}

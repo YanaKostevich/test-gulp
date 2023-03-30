@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "zeyadaregular";
+  src: url("../fonts/zeyada-regular-webfont.woff2") format("woff2"), url("../fonts/zeyada-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-size: 100px;
+}
+body h1 {
+  color: blue;
+  font-family: "zeyadaregular";
+}
+
+@media (max-width: 768px) {
+  h1 {
+    color: #000;
+  }
+}
+@media (max-width: 768px) {
+  body {
+    background-color: blue;
+  }
+}

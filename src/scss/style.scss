@@ -1,0 +1,22 @@
+@import "fonts.scss";
+
+body{
+    
+    h1{
+        color: blue;
+        font-family: "zeyadaregular";
+    }
+}
+@media (max-width: 768px){
+ 
+    h1{
+        color: #000;
+    }
+
+}
+@media (max-width: 768px){
+    body{
+        background-color: blue;
+    }
+    
+}
